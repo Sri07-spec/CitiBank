@@ -1,1 +1,1 @@
-Kore.ai ADI Bot Code
+Kore.ai Citigold Chatbot Integration
